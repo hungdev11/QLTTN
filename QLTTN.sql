@@ -1,6 +1,3 @@
-# QLTTN
-SCRIPT QUẢN LÝ TÍNH TIỀN NƯỚC CHO CÔNG TY ĐÔ THỊ
-
 CREATE database QLTTN
 GO
 USE [QLTTN]
@@ -99,7 +96,7 @@ CREATE TABLE dbo.CT_TDG(
 
 
 
-** Dùng để xóa database tạo lại
+
 --USE master
 --ALTER DATABASE QLTTN SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
 --DROP database QLTTN
