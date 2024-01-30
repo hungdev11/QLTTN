@@ -1,6 +1,6 @@
 # QLTTN
 SCRIPT QUẢN LÝ TÍNH TIỀN NƯỚC CHO CÔNG TY ĐÔ THỊ
-
+> sql
 CREATE database QLTTN
 GO
 USE [QLTTN]
